@@ -1,5 +1,7 @@
 # pyxpo-network
 
+[![CI](https://github.com/pyxpo/pyxpo-network/actions/workflows/ci.yml/badge.svg)](https://github.com/pyxpo/pyxpo-network/actions/workflows/ci.yml) [![PyPI](https://img.shields.io/pypi/v/pyxpo-network)](https://pypi.org/project/pyxpo-network/) [![Python](https://img.shields.io/pypi/pyversions/pyxpo-network)](https://pypi.org/project/pyxpo-network/) [![License: MIT](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+
 Network state, IP address and connectivity changes for [pyxpo](https://github.com/pyxpo/pyxpo) apps, written in
 Python: is the phone online, over what, what is its IP address, and a live feed when that changes. The names follow
 [expo-network](https://docs.expo.dev/versions/latest/sdk/network/), in Python style.
